@@ -1,0 +1,32 @@
+.main {
+  position: relative;
+}
+
+.base {
+  height: 25px;
+  width: 5px;
+  background: black;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.palo-vertical {
+  height: 5px;
+  width: 100px;
+  background: black;
+  margin-left: 60px;
+}
+
+.palo-horizontal {
+  height: 200px;
+  width: 5px;
+  background: black;
+  margin-left: 60px;
+}
+
+.cuerda {
+  height: 5px;
+  width: 125px;
+  background: black;
+}
