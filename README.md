@@ -1,6 +1,6 @@
 # Projecto de juego "El Colgado" utilizando React + TypeScript + Vite
 
-### Haz click en el siguiente enlace para ir al sitio web:
+### Haz click en el siguiente enlace para jugar:
 #### [https://juego-colgado-react-ts.netlify.app/](https://juego-colgado-react-ts.netlify.app/)
 
 Capturas de imágenes del juego
